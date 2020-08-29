@@ -1,7 +1,7 @@
 
 #ignores all files
 
-another-file.txt
+new-file.txt
 
 #ignore all files in the bin
 bin/
